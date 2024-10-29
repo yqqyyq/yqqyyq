@@ -4,4 +4,4 @@
 
 🇨🇳 Shanghai
 
-https://yqqyyq.github.ip
+https://yqqyyq.github.io
