@@ -22,7 +22,7 @@
     <a href="https://gitee.com/yqqyyq"><img src="https://img.shields.io/badge/Gitee-yqqyyq-blue?logo=gitee" /></a>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yqqyyq&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yqqyyq&theme=transparent&hide_border=true&layout=compact&langs_count=22&range=all_time" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqqyyq&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 </p>
 <!-- <p align="center">
