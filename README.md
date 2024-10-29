@@ -15,7 +15,7 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=yqqyyq&no-bg=true&no-frame=true&theme=algolia" />
 </p> -->
 <p align="center">
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,java,html,css,js,md&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=docker,maven    ,gradle,nginx,py,java,kotlin,nodejs,html,css,js,md&titles=true">
 </p>
 <p align="center">
     <a href="https://github.com/yqqyyq"><img src="https://img.shields.io/badge/GitHub-yqqyyq-blue?logo=github" /></a>
