@@ -1,18 +1,3 @@
-<!--
-**yqqyyq/yqqyyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=Hello%20World&fontSize=90&fontAlign=50&fontAlignY=30&desc=i%20am%20yqqyyq!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
@@ -35,11 +20,11 @@ Here are some ideas to get you started:
 <p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=yqqyyq&no-bg=true&no-frame=true&theme=algolia" />
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,latex,regex,mermaid,matlab&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=py,java,html,css,js,md&titles=true">
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields -->
